@@ -1,0 +1,101 @@
+patient_id,age,gender,diagnosis_code,diagnosis_description,diagnosis_date
+P1,37,M,D123,Diabetes,2024-04-01
+P2,49,F,H234,High Blood Pressure,2024-04-01
+P3,34,M,C345,Cancer,2024-04-01
+P4,34,M,C345,Cancer,2024-04-01
+P5,35,F,C345,Cancer,2024-04-01
+P6,58,M,H234,High Blood Pressure,2024-04-01
+P7,48,M,H234,High Blood Pressure,2024-04-01
+P8,63,F,H234,High Blood Pressure,2024-04-01
+P9,51,F,C345,Cancer,2024-04-01
+P10,55,F,C345,Cancer,2024-04-01
+P11,56,F,D123,Diabetes,2024-04-01
+P12,62,F,H234,High Blood Pressure,2024-04-01
+P13,58,F,D123,Diabetes,2024-04-01
+P14,52,M,D123,Diabetes,2024-04-01
+P15,54,F,C345,Cancer,2024-04-01
+P16,49,M,C345,Cancer,2024-04-01
+P17,68,M,D123,Diabetes,2024-04-01
+P18,66,M,C345,Cancer,2024-04-01
+P19,64,M,H234,High Blood Pressure,2024-04-01
+P20,35,M,H234,High Blood Pressure,2024-04-01
+P21,56,M,H234,High Blood Pressure,2024-04-01
+P22,61,F,H234,High Blood Pressure,2024-04-01
+P23,68,F,C345,Cancer,2024-04-01
+P24,30,M,H234,High Blood Pressure,2024-04-01
+P25,69,M,C345,Cancer,2024-04-01
+P26,64,M,D123,Diabetes,2024-04-01
+P27,43,M,D123,Diabetes,2024-04-01
+P28,44,F,C345,Cancer,2024-04-01
+P29,67,F,C345,Cancer,2024-04-01
+P30,52,M,H234,High Blood Pressure,2024-04-01
+P31,41,F,H234,High Blood Pressure,2024-04-01
+P32,53,M,D123,Diabetes,2024-04-01
+P33,66,F,C345,Cancer,2024-04-01
+P34,70,M,H234,High Blood Pressure,2024-04-01
+P35,63,M,C345,Cancer,2024-04-01
+P36,52,M,H234,High Blood Pressure,2024-04-01
+P37,55,F,D123,Diabetes,2024-04-01
+P38,47,F,H234,High Blood Pressure,2024-04-01
+P39,49,M,D123,Diabetes,2024-04-01
+P40,60,F,H234,High Blood Pressure,2024-04-01
+P41,37,M,C345,Cancer,2024-04-01
+P42,32,M,D123,Diabetes,2024-04-01
+P43,67,F,H234,High Blood Pressure,2024-04-01
+P44,40,F,H234,High Blood Pressure,2024-04-01
+P45,64,M,H234,High Blood Pressure,2024-04-01
+P46,64,F,D123,Diabetes,2024-04-01
+P47,40,F,D123,Diabetes,2024-04-01
+P48,36,M,D123,Diabetes,2024-04-01
+P49,51,F,C345,Cancer,2024-04-01
+P50,47,F,D123,Diabetes,2024-04-01
+P51,53,M,D123,Diabetes,2024-04-01
+P52,35,F,D123,Diabetes,2024-04-01
+P53,54,M,H234,High Blood Pressure,2024-04-01
+P54,52,M,D123,Diabetes,2024-04-01
+P55,49,F,H234,High Blood Pressure,2024-04-01
+P56,46,F,D123,Diabetes,2024-04-01
+P57,65,F,D123,Diabetes,2024-04-01
+P58,44,F,D123,Diabetes,2024-04-01
+P59,67,F,H234,High Blood Pressure,2024-04-01
+P60,37,F,H234,High Blood Pressure,2024-04-01
+P61,33,M,D123,Diabetes,2024-04-01
+P62,64,F,D123,Diabetes,2024-04-01
+P63,46,F,D123,Diabetes,2024-04-01
+P64,52,F,D123,Diabetes,2024-04-01
+P65,65,F,D123,Diabetes,2024-04-01
+P66,59,F,D123,Diabetes,2024-04-01
+P67,68,F,D123,Diabetes,2024-04-01
+P68,57,F,H234,High Blood Pressure,2024-04-01
+P69,65,F,H234,High Blood Pressure,2024-04-01
+P70,37,F,D123,Diabetes,2024-04-01
+P71,62,M,H234,High Blood Pressure,2024-04-01
+P72,65,F,D123,Diabetes,2024-04-01
+P73,70,M,C345,Cancer,2024-04-01
+P74,68,F,H234,High Blood Pressure,2024-04-01
+P75,30,F,H234,High Blood Pressure,2024-04-01
+P76,55,F,H234,High Blood Pressure,2024-04-01
+P77,42,F,H234,High Blood Pressure,2024-04-01
+P78,61,M,C345,Cancer,2024-04-01
+P79,43,M,H234,High Blood Pressure,2024-04-01
+P80,59,M,H234,High Blood Pressure,2024-04-01
+P81,31,M,D123,Diabetes,2024-04-01
+P82,36,M,D123,Diabetes,2024-04-01
+P83,64,F,D123,Diabetes,2024-04-01
+P84,47,F,H234,High Blood Pressure,2024-04-01
+P85,40,F,D123,Diabetes,2024-04-01
+P86,57,M,D123,Diabetes,2024-04-01
+P87,38,M,D123,Diabetes,2024-04-01
+P88,40,F,D123,Diabetes,2024-04-01
+P89,34,F,H234,High Blood Pressure,2024-04-01
+P90,36,M,C345,Cancer,2024-04-01
+P91,64,F,D123,Diabetes,2024-04-01
+P92,52,M,H234,High Blood Pressure,2024-04-01
+P93,52,M,D123,Diabetes,2024-04-01
+P94,63,M,H234,High Blood Pressure,2024-04-01
+P95,43,M,C345,Cancer,2024-04-01
+P96,43,F,D123,Diabetes,2024-04-01
+P97,50,F,H234,High Blood Pressure,2024-04-01
+P98,37,M,D123,Diabetes,2024-04-01
+P99,51,F,H234,High Blood Pressure,2024-04-01
+P100,53,M,H234,High Blood Pressure,2024-04-01
