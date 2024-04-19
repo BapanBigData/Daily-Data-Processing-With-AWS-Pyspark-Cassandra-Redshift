@@ -1,5 +1,6 @@
 # Daily-Data-Processing-With-AWS-Pyspark-Cassandra-Redshift
-Overview
+
+Overview:
 
 This project aims to automate the processing of daily CSV files retrieved from an AWS S3 bucket using a Spark application. The processed data is transformed and stored in a Cassandra table for further analysis. Additionally, the Spark application incrementally loads modified data into AWS Redshift for enhanced analytics and visualization. Upon completion of data processing, the daily CSV file is archived in the S3 bucket's archive folder.
 
